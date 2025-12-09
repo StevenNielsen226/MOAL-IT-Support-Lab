@@ -1,0 +1,3 @@
+DisplayName,SamAccountName,OU,PrimaryGroup
+HR User One,hruser1,"OU=HR,DC=moal,DC=local",MOAL-HR-Users
+Finance User One,finuser1,"OU=Finance,DC=moal,DC=local",MOAL-Finance-Users
